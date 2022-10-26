@@ -2,8 +2,9 @@
 
 <br>
 <br>
-* [DuckyCode](https://github.com/Gurupremrajpal/USB-Rubber-Ducky/blob/main/duckycode.txt)
-
+<a href="[https://solarsystem.gurupremrajpal.repl.co](https://github.com/Gurupremrajpal/USB-Rubber-Ducky/blob/main/duckycode.txt)"> DuckyCode </a>
+<br>
+<br>
 ## License
 
     Copyright [2021] [Guruprem Rajpal]
