@@ -2,6 +2,7 @@
 
 <br>
 <br>
+* [DuckyCode](https://github.com/Gurupremrajpal/USB-Rubber-Ducky/blob/main/duckycode.txt)
 
 ## License
 
