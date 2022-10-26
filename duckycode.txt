@@ -1,3 +1,4 @@
+REM In Progress!
 REM You can contribute to my script
 REM You should replace 'Mac Password' with Target MAC Password
 
